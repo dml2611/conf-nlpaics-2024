@@ -116,12 +116,14 @@ menu:
     url:   /contact/
 
 slideshow:
-  - url: /assets/img/image_1.jpg
-  - url: /assets/img/image_2.jpg
-  - url: /assets/img/image_3.jpg
-  - url: /assets/img/image_4.jpg
+  images:
+  - /assets/img/image_1.jpg
+  - /assets/img/image_2.jpg
+  - /assets/img/image_3.jpg
+  - /assets/img/image_4.jpg
 
 slideshow-venue:
-  - url: /assets/img/venue_1.jpg
-  - url: /assets/img/venue_2.jpg
-  - url: /assets/img/venue_3.jpg
+  images:
+  - /assets/img/venue_1.jpg
+  - /assets/img/venue_2.jpg
+  - /assets/img/venue_3.jpg
