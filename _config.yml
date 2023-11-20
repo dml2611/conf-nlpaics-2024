@@ -4,7 +4,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Natural Language Processing and Artificial Intelligence for Cyber Security
 # url: "https://conf-nlpaics-2024.github.io"
-baseurl: /conf-nlpaics-2024.github.io
+baseurl: "conf-nlpaics-2024.github.io"
 twitter_username: username
 github_username: dml2611
 search: true
@@ -114,7 +114,12 @@ menu:
     url:   /contact/
 
 slideshow:
-  - /assets/img/image_1.jpg
-  - /assets/img/image_2.jpg
-  - /assets/img/image_3.jpg
-  - /assets/img/image_4.jpg
+  - url: /assets/img/image_1.jpg
+  - url: /assets/img/image_2.jpg
+  - url: /assets/img/image_3.jpg
+  - url: /assets/img/image_4.jpg
+
+slideshow-venue:
+  - url: "https://cottage-escapes.co.uk/wp-content/uploads/2017/01/Lake-District.jpg"
+  - url: "https://www.holidaycottagescumbria.com/wp-content/uploads/Ullswater-SW.jpg"
+  - url: "https://www.heleninwonderlust.co.uk/wp-content/uploads/2021/06/fleetwith-pike-455-1140x760.jpg"
