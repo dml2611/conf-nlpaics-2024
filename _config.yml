@@ -3,7 +3,7 @@ title: NLPAICS 2024
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Natural Language Processing and Artificial Intelligence for Cyber Security
-# url: "https://conference.github.io"
+url: "https://conf-nlpaics-2024.github.io"
 baseurl: "conf-nlpaics-2024.github.io"
 twitter_username: username
 github_username: dml2611
