@@ -80,7 +80,7 @@ compress_html:
 sass:
   style:               compressed
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: jekyll-theme-hydejack
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
