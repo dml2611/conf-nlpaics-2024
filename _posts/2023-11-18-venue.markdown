@@ -4,6 +4,6 @@ title: Venue
 permalink: /venue/
 ---
 George Fox building
-{% include slideshow-venue.html %}
+{% include slideshow-venue.html images=page.slideshow %}
 
 {% include left-tab.html %}
