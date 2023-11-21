@@ -89,7 +89,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-relative-links
-
+  
+relative_links:
+  enabled:     true
+  collections: false
+  
 menu:
   - title: Home
     url:   /home/
