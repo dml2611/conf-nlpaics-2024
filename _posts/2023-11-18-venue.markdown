@@ -3,7 +3,8 @@ layout: page
 title: Venue
 permalink: /venue/
 ---
-George Fox building
+George Fox building 
+<br>
 {% include slideshow-venue.html images=page.slideshow %}
 
 {% include left-tab.html %}
