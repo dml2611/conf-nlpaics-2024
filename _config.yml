@@ -62,9 +62,10 @@ optional_front_matter:
 readme_index:
   remove_originals:    true
   with_frontmatter:    true
-
+  
 relative_links:
-  collections:         true
+  enabled:     true
+  collections: true
 
 titles_from_headings:
   strip_title:         true
@@ -79,8 +80,10 @@ compress_html:
 
 sass:
   style:               compressed
+  
 # Build settings
 remote_theme: jekyll-theme-hydejack
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -89,10 +92,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-relative-links
-  
-relative_links:
-  enabled:     true
-  collections: false
   
 menu:
   - title: Home
