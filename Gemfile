@@ -49,4 +49,4 @@ gem 'faraday-retry'
 gem 'kramdown-parser-gfm', '~> 1.1'
 gem 'selenium-webdriver'
 
-gem "webrick", "~> 1.8"
+# gem "webrick", "~> 1.8"
