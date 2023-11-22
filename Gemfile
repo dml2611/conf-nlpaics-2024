@@ -7,22 +7,22 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 3.9.3"
+
 gem "jekyll", "~> 3.9.3"
 gem 'font-awesome-less'
 gem 'material_icons', '~> 4.0'
 gem 'jekyll-relative-links'
-gem 'faraday_middleware-request-retry', '~> 0.2.0'
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "minima", "~> 2.5"
 gem 'jekyll-theme-hydejack', '~> 9.1', '>= 9.1.6'
-# gem "alembic-jekyll-theme", '~> 3.1'
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
+
 # If you have any plugins, put them here!
 gem "github-pages", group: :jekyll_plugins
-gem 'reveal-jekyll' '~> 0.0.2'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -51,4 +51,4 @@ gem 'faraday-retry'
 gem 'kramdown-parser-gfm', '~> 1.1'
 gem 'selenium-webdriver'
 
-# gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8"
