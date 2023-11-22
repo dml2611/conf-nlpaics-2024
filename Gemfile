@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.9.3"
 gem 'font-awesome-less'
 gem 'material_icons', '~> 4.0'
 gem 'jekyll-relative-links'
-
+gem 'faraday_middleware-request-retry', '~> 0.2.0'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 gem 'jekyll-theme-hydejack', '~> 9.1', '>= 9.1.6'
