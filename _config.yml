@@ -117,15 +117,15 @@ menu:
   - title: Contact Us
     url:   /contact/
 
-# slideshow:
-#   images:
-#   - /assets/img/image_1.jpg
-#   - /assets/img/image_2.jpg
-#   - /assets/img/image_3.jpg
-#   - /assets/img/image_4.jpg
+slideshow:
+  images:
+  - /assets/img/image_1.jpg
+  - /assets/img/image_2.jpg
+  - /assets/img/image_3.jpg
+  - /assets/img/image_4.jpg
 
-# slideshow-venue:
-#   images:
-#   - /assets/img/venue_1.jpg
-#   - /assets/img/venue_2.jpg
-#   - /assets/img/venue_3.jpg
+slideshow-venue:
+  images:
+  - /assets/img/venue_1.jpg
+  - /assets/img/venue_2.jpg
+  - /assets/img/venue_3.jpg
