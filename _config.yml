@@ -98,12 +98,6 @@ menu:
     url:   /home/
   - title: Programme
     url:   /programme/
-  # - title: Important Dates
-  #   url:   /dates/
-  # - title: Calls
-  #   url:   /calls/
-  # - title: Submissions
-  #   url:   /submissions/
   - title: Registration
     url:   /registration/
   - title: Venue
@@ -130,3 +124,16 @@ slideshow-venue:
   - /assets/img/venue_1.jpg
   - /assets/img/venue_2.jpg
   - /assets/img/venue_3.jpg
+
+left-tab:
+  - title: Announcements
+    url: /announcements/
+  - title: Important Dates
+    url:   /dates/
+  - title: Calls
+    url:   /calls/
+  - title: Submissions
+    url:   /submissions/
+  - title:  Submission Topics
+    url:   /submission-topics/
+  
