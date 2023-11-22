@@ -3,10 +3,7 @@ layout: page
 title: Venue
 permalink: /venue/
 ---
- 
-<br>
-#{% include slideshow-venue.html images=page.slideshow-venue %}
-<!DOCTYPE html>
+
 <html>
 <body>
 
