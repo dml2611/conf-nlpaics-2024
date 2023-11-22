@@ -11,7 +11,7 @@ permalink: /venue/
 <body>
 
 <h2>George Fox building</h2>
-<img src="/assets/img/venue_1.jpg" alt="George Fox" width="500" height="600">
+<img src="/assets/img/venue_1.jpg" alt="George Fox" width="600" height="400">
 
 </body>
 </html>
