@@ -5,6 +5,6 @@ permalink: /venue/
 ---
 George Fox building 
 <br>
-{% include slideshow-venue.html images=page.slideshow %}
-
+{% include slideshow-venue.html %}
+<br>
 {% include left-tab.html %}
