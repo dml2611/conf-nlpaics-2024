@@ -22,7 +22,7 @@ gem 'jekyll-theme-hydejack', '~> 9.1', '>= 9.1.6'
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 gem "github-pages", group: :jekyll_plugins
-
+gem 'reveal-jekyll' '~> 0.0.2'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate"
