@@ -7,10 +7,10 @@ permalink: /venue/
 <html>
 <body>
 
-<h2>George Fox building</h2>
-<img src="/assets/img/venue_1.jpg" alt="George Fox" width="600" height="400">
-<img src="/assets/img/venue_2.jpg" alt="George Fox" width="600" height="400">
-<img src="/assets/img/venue_3.jpg" alt="George Fox" width="600" height="400">
+<h2>George Fox Building</h2>
+<img src="/assets/img/venue_1.jpg" alt="George Fox" width="700" height="500">
+<img src="/assets/img/venue_2.jpg" alt="George Fox" width="700" height="500">
+<img src="/assets/img/venue_3.jpg" alt="George Fox" width="700" height="500">
 
 </body>
 </html>
