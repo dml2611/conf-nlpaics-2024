@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HEALTHCARE TEXT ANALYTICS CONFERENCE 2024
   Lancaster University, JUNE 14-16, 2024
 # url: "https://conf-nlpaics-2024.github.io"
-baseurl: "conf-nlpaics-2024"
+baseurl: "healtac-2024"
 twitter_username: username
 github_username: dml2611
 search: true
